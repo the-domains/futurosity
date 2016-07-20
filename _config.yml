@@ -6,9 +6,9 @@ color:
   saturation: 0.2520020364318043
   rhythmicContrast: 0.6216544187627733
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 name: futurosity
