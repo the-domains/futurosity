@@ -1,20 +1,20 @@
 ---
-description: How to Be a Fearless Presenter
-dateModified: '2016-07-20T21:59:05.140Z'
-datePublished: '2016-07-20T21:59:15.872Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-07-20T21:59:35.295Z'
 sourcePath: _posts/2016-07-20-how-to-be-a-fearless-presenter.md
+author: []
+via: {}
+dateModified: '2016-07-20T21:59:34.589Z'
+title: How to Be a Fearless Presenter
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-How to Be a Fearless Presenter
+# How to Be a Fearless Presenter
 
 How to Be a Fearless Presenter
 
